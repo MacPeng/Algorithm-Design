@@ -1,4 +1,4 @@
-**linear search**
+__linear search__
 // C++ code to linearly search x in arr[]. If x
 // is present then return its location, otherwise
 // return -1
@@ -33,7 +33,7 @@ int main(void)
 
 
 
-*binary search 
+**binary search**
 // C++ program to implement recursive Binary Search
 #include <bits/stdc++.h>
 using namespace std;
