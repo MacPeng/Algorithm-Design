@@ -365,7 +365,8 @@ int main()
 	return 0;
 }
 
-Time Complexity: Sorting arrays on different machines. Merge Sort is a recursive algorithm and time complexity can be expressed as following recurrence relation. 
+Time Complexity: Sorting arrays on different machines. Merge Sort is a recursive algorithm and time complexity can be expressed as 
+following recurrence relation. 
 T(n) = 2T(n/2) + θ(n)
 Auxiliary Space: O(n)
 Algorithmic Paradigm: Divide and Conquer
